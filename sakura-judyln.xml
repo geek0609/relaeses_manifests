@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <project path="device/lge/judyln" name="kiam001/android_device_lge_judyln" remote="github" revision="los-18.1" />
- <project path="device/lge/common" name="kiam001/android_device_lge_common" remote="github" revision="R" />
  <project path="device/lge/sdm845-common" name="kiam001/android_device_lge_sdm845-common" remote="github" revision="los-18.1" />
  <project path="kernel/lge/sdm845" name="kiam001/android_kernel_lge_sdm845" remote="github" revision="dotos-v" />
  <project path="vendor/lge" name="kiam001/proprietary_vendor_lge" remote="github" revision="dotos" />
