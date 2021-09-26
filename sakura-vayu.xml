@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+ <remove-project name="frameworks_native" />
  <project path="vendor/xiaomi/vayu" name="DireWolf-Project/vendor_xiaomi_vayu" remote="private" revision="11" />
  <project path="kernel/xiaomi/vayu" name="DireWolf-Project/kernel_xiaomi_vayu" remote="private" revision="11-test" />
  <project path="device/xiaomi/vayu" name="DireWolf-Project/device_xiaomi_vayu" remote="private" revision="11" />
  <project path="vendor/sakura-priv" name="Sakura-Devices/vendor_sakura-priv" remote="private" revision="11" />
+ <project path="frameworks/native" name="frameworks_native" remote="sakura" revision="11-blur" />
  </manifest>
