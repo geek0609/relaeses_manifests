@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote name="main"
+                fetch="https://github.com/cArN4gEisDeD" />
+
+        <project path="device/realme/aqua" name="android_device_realme_aqua" remote="main" revision="cos6-11" clone-depth="1" />
+        <project path="vendor/realme/aqua" name="android_vendor_realme_aqua" remote="main" revision="cos6-11" clone-depth="1" />
+        <project path="vendor/sakura-priv" name="Sakura-Devices/vendor_sakura-priv" remote="private" revision="11" />
+
+</manifest>
