@@ -5,5 +5,4 @@
  <project path="device/motorola/msm8937-common" name="LineageOS/android_device_motorola_msm8937-common" remote="github" revision="lineage-18.1" />
  <project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="lineage-18.1" />
  <project path="kernel/motorola/msm8953" name="LineageOS/android_kernel_motorola_msm8953" remote="github" revision="lineage-18.1" />
- <project path="system/tools/dtbtool" name="DotOS/android_system_tools_dtbtool" remote="github" revision="dot11" />
  </manifest>
